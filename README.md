@@ -45,7 +45,7 @@ The core of the system revolves around a robust feedback loop for continual self
 
 4. Run the model:
     ```bash
-    python run_model.py
+    python REV119.py
     ```
 
 ### Datasets
