@@ -31,8 +31,8 @@ The core of the system revolves around a robust feedback loop for continual self
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Vortex-Persian-NLP.git
-    cd Vortex-Persian-NLP
+        git clone https://github.com/Arash-Mansourpour/Vortex-Persian-NLP.git
+        cd Vortex-Persian-NLP
     ```
 
 2. Install the required dependencies:
